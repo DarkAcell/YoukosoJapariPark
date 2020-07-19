@@ -1,0 +1,2 @@
+# YoukosoJapariPark
+GitHub Pages
